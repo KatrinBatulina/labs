@@ -1,0 +1,42 @@
+#center{ 
+width: 65%;
+margin-top: 3%;         /* Отступ для красного, 3 и 4 блока */
+margin-left: 20%;
+padding-left: 5%;
+height: 500px;
+}    
+
+#block2{
+background-color:#F2B705;
+color: #023859;
+max-width: 28%;
+height: 500px;
+float: left;
+font-size: calc(1rem + 1.05vw - 2vh);
+padding-top: 100px;
+padding-right:5px;
+}
+
+#redBlock{
+color: white;
+width: 85%;                    /* Параметры для блока с надписью "Автобиография" */
+text-align: center;
+margin-bottom: 10px;
+}
+
+#block3 img{
+width: 23%;
+float: left;
+margin-right: 20px;
+}
+
+#block4{
+float: left;
+width: 58%;
+height: auto;
+padding: 10px;
+border: 3px solid #0476D9;
+background-color: white;
+color: #023859;
+box-sizing: border-box; 
+}

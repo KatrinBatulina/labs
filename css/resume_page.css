@@ -1,0 +1,16 @@
+html{
+font-family: Arial,Candara, sans-serif;    
+font-size: 20px;  
+}
+body{
+background-color: #F27405;
+color: white;
+}
+
+#textblock{
+margin: 10px;
+padding: 15px;
+}
+p,h2{
+text-align: center;   
+}
